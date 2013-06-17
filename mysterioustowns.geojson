@@ -1,1 +1,617 @@
-{"features":[{"id":"Springfield","properties":{"LAT ":42.101483,"STATE":"MA","LONG":-72.589811,"CITY":"Springfield"},"type":"Feature","geometry":{"type":"Point","coordinates":[-72.589811,42.101483]}},{"id":"Cary ","properties":{"LAT ":35.79154,"STATE":"NC","LONG":-78.781117,"CITY":"Cary "},"type":"Feature","geometry":{"type":"Point","coordinates":[-78.781117,35.79154]}},{"id":"Arlington","properties":{"LAT ":38.87997,"STATE":"VA","LONG":-77.10677,"CITY":"Arlington"},"type":"Feature","geometry":{"type":"Point","coordinates":[-77.10677,38.87997]}},{"id":"Belfast","properties":{"LAT ":44.425909,"STATE":"ME","LONG":-69.006423,"CITY":"Belfast"},"type":"Feature","geometry":{"type":"Point","coordinates":[-69.006423,44.425909]}},{"id":"Mobile","properties":{"LAT ":30.694357,"STATE":"AL","LONG":-88.043054,"CITY":"Mobile"},"type":"Feature","geometry":{"type":"Point","coordinates":[-88.043054,30.694357]}},{"id":"South Williamsport","properties":{"LAT ":41.232023,"STATE":"PA","LONG":-76.999134,"CITY":"South Williamsport"},"type":"Feature","geometry":{"type":"Point","coordinates":[-76.999134,41.232023]}},{"id":"Williamsport","properties":{"LAT ":41.24119,"STATE":"PA","LONG":-77.001079,"CITY":"Williamsport"},"type":"Feature","geometry":{"type":"Point","coordinates":[-77.001079,41.24119]}},{"id":"Greer","properties":{"LAT ":34.938728,"STATE":"SC","LONG":-82.227057,"CITY":"Greer"},"type":"Feature","geometry":{"type":"Point","coordinates":[-82.227057,34.938728]}},{"id":"Conception Junction ","properties":{"LAT ":40.269713,"STATE":"MO ","LONG":-94.69191,"CITY":"Conception Junction "},"type":"Feature","geometry":{"type":"Point","coordinates":[-94.69191,40.269713]}},{"id":"New York City","properties":{"LAT ":40.714353,"STATE":"NY","LONG":-74.005973,"CITY":"New York City"},"type":"Feature","geometry":{"type":"Point","coordinates":[-74.005973,40.714353]}},{"id":"Cheshire","properties":{"LAT ":41.512222,"STATE":"CT","LONG":-72.903611,"CITY":"Cheshire"},"type":"Feature","geometry":{"type":"Point","coordinates":[-72.903611,41.512222]}},{"id":"Cambridge","properties":{"LAT ":42.373616,"STATE":"MA","LONG":-71.109733,"CITY":"Cambridge"},"type":"Feature","geometry":{"type":"Point","coordinates":[-71.109733,42.373616]}},{"id":"Mount Vernon","properties":{"LAT ":40.912599,"STATE":"NY","LONG":-73.837079,"CITY":"Mount Vernon"},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.837079,40.912599]}},{"id":"Bronxville","properties":{"LAT ":40.938154,"STATE":"NY","LONG":-73.832078,"CITY":"Bronxville"},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.832078,40.938154]}},{"id":"South Glastonbury","properties":{"LAT ":41.66706,"STATE":"CT","LONG":-72.595888,"CITY":"South Glastonbury"},"type":"Feature","geometry":{"type":"Point","coordinates":[-72.595888,41.66706]}},{"id":"Erie","properties":{"LAT ":42.129224,"STATE":"PA","LONG":-80.085059,"CITY":"Erie"},"type":"Feature","geometry":{"type":"Point","coordinates":[-80.085059,42.129224]}},{"id":"Danbury ","properties":{"LAT ":41.394817,"STATE":"CT","LONG":-73.454011,"CITY":"Danbury "},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.454011,41.394817]}},{"id":"Sherman ","properties":{"LAT ":41.578642,"STATE":"CT","LONG":-73.497418,"CITY":"Sherman "},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.497418,41.578642]}},{"id":"New Fairfield","properties":{"LAT ":41.466099,"STATE":"CT","LONG":-73.485646,"CITY":"New Fairfield"},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.485646,41.466099]}},{"id":"Bloomfield Hills","properties":{"LAT ":42.583645,"STATE":"MI ","LONG":-83.245488,"CITY":"Bloomfield Hills"},"type":"Feature","geometry":{"type":"Point","coordinates":[-83.245488,42.583645]}},{"id":"Denver","properties":{"LAT ":39.737567,"STATE":"CO","LONG":-104.984718,"CITY":"Denver"},"type":"Feature","geometry":{"type":"Point","coordinates":[-104.984718,39.737567]}},{"id":"Clarksburg","properties":{"LAT ":39.280645,"STATE":"WV","LONG":-80.344534,"CITY":"Clarksburg"},"type":"Feature","geometry":{"type":"Point","coordinates":[-80.344534,39.280645]}},{"id":"Harvard","properties":{"LAT ":42.5,"STATE":"MA","LONG":-71.583333,"CITY":"Harvard"},"type":"Feature","geometry":{"type":"Point","coordinates":[-71.583333,42.5]}},{"id":"Lousiville","properties":{"LAT ":38.252665,"STATE":"KY","LONG":-85.758456,"CITY":"Lousiville"},"type":"Feature","geometry":{"type":"Point","coordinates":[-85.758456,38.252665]}},{"id":"Juneau","properties":{"LAT ":58.301944,"STATE":"AK","LONG":-134.419722,"CITY":"Juneau"},"type":"Feature","geometry":{"type":"Point","coordinates":[-134.419722,58.301944]}},{"id":"Yolo County ","properties":{"LAT ":38.764602,"STATE":"CA","LONG":-121.901795,"CITY":"Yolo County "},"type":"Feature","geometry":{"type":"Point","coordinates":[-121.901795,38.764602]}},{"id":"Fairfax County","properties":{"LAT ":38.908547,"STATE":"VA","LONG":-77.240515,"CITY":"Fairfax County"},"type":"Feature","geometry":{"type":"Point","coordinates":[-77.240515,38.908547]}},{"id":"Yorba Linda","properties":{"LAT ":33.888626,"STATE":"CA","LONG":-117.813112,"CITY":"Yorba Linda"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.813112,33.888626]}},{"id":"Catskill ","properties":{"LAT ":42.21731,"STATE":"NY","LONG":-73.864573,"CITY":"Catskill "},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.864573,42.21731]}},{"id":"Hudson ","properties":{"LAT ":42.2528,"STATE":"NY ","LONG":-73.7914,"CITY":"Hudson "},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7914,42.2528]}},{"id":"Albany","properties":{"LAT ":42.652579,"STATE":"NY","LONG":-73.756232,"CITY":"Albany"},"type":"Feature","geometry":{"type":"Point","coordinates":[-73.756232,42.652579]}},{"id":"Pittbsurgh","properties":{"LAT ":40.440625,"STATE":"PA","LONG":-79.995886,"CITY":"Pittbsurgh"},"type":"Feature","geometry":{"type":"Point","coordinates":[-79.995886,40.440625]}},{"id":"Atlanta ","properties":{"LAT ":33.748995,"STATE":"GA","LONG":-84.387982,"CITY":"Atlanta "},"type":"Feature","geometry":{"type":"Point","coordinates":[-84.387982,33.748995]}},{"id":"Havertown ","properties":{"LAT ":39.980833,"STATE":"PA","LONG":-75.308889,"CITY":"Havertown "},"type":"Feature","geometry":{"type":"Point","coordinates":[-75.308889,39.980833]}},{"id":"Lakewood","properties":{"LAT ":33.853627,"STATE":"CA","LONG":-118.133956,"CITY":"Lakewood"},"type":"Feature","geometry":{"type":"Point","coordinates":[-118.133956,33.853627]}},{"id":"Inglewood","properties":{"LAT ":33.96168,"STATE":"CA","LONG":-118.353131,"CITY":"Inglewood"},"type":"Feature","geometry":{"type":"Point","coordinates":[-118.353131,33.96168]}}],"type":"FeatureCollection"}
+{
+  "features":[
+    {
+      "id":"Springfield",
+      "properties":{
+        "LAT ":42.101483,
+        "STATE":"MA",
+        "LONG":-72.589811,
+        "CITY":"Springfield"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.589811,
+          42.101483
+        ]
+      }
+    },
+    {
+      "id":"Cary ",
+      "properties":{
+        "LAT ":35.79154,
+        "STATE":"NC",
+        "LONG":-78.781117,
+        "CITY":"Cary "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -78.781117,
+          35.79154
+        ]
+      }
+    },
+    {
+      "id":"Arlington",
+      "properties":{
+        "LAT ":38.87997,
+        "STATE":"VA",
+        "LONG":-77.10677,
+        "CITY":"Arlington"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -77.10677,
+          38.87997
+        ]
+      }
+    },
+    {
+      "id":"Belfast",
+      "properties":{
+        "LAT ":44.425909,
+        "STATE":"ME",
+        "LONG":-69.006423,
+        "CITY":"Belfast"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -69.006423,
+          44.425909
+        ]
+      }
+    },
+    {
+      "id":"Mobile",
+      "properties":{
+        "LAT ":30.694357,
+        "STATE":"AL",
+        "LONG":-88.043054,
+        "CITY":"Mobile"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -88.043054,
+          30.694357
+        ]
+      }
+    },
+    {
+      "id":"South Williamsport",
+      "properties":{
+        "LAT ":41.232023,
+        "STATE":"PA",
+        "LONG":-76.999134,
+        "CITY":"South Williamsport"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -76.999134,
+          41.232023
+        ]
+      }
+    },
+    {
+      "id":"Williamsport",
+      "properties":{
+        "LAT ":41.24119,
+        "STATE":"PA",
+        "LONG":-77.001079,
+        "CITY":"Williamsport"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -77.001079,
+          41.24119
+        ]
+      }
+    },
+    {
+      "id":"Greer",
+      "properties":{
+        "LAT ":34.938728,
+        "STATE":"SC",
+        "LONG":-82.227057,
+        "CITY":"Greer"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -82.227057,
+          34.938728
+        ]
+      }
+    },
+    {
+      "id":"Conception Junction ",
+      "properties":{
+        "LAT ":40.269713,
+        "STATE":"MO ",
+        "LONG":-94.69191,
+        "CITY":"Conception Junction "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -94.69191,
+          40.269713
+        ]
+      }
+    },
+    {
+      "id":"New York City",
+      "properties":{
+        "LAT ":40.714353,
+        "STATE":"NY",
+        "LONG":-74.005973,
+        "CITY":"New York City"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -74.005973,
+          40.714353
+        ]
+      }
+    },
+    {
+      "id":"Cheshire",
+      "properties":{
+        "LAT ":41.512222,
+        "STATE":"CT",
+        "LONG":-72.903611,
+        "CITY":"Cheshire"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.903611,
+          41.512222
+        ]
+      }
+    },
+    {
+      "id":"Cambridge",
+      "properties":{
+        "LAT ":42.373616,
+        "STATE":"MA",
+        "LONG":-71.109733,
+        "CITY":"Cambridge"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -71.109733,
+          42.373616
+        ]
+      }
+    },
+    {
+      "id":"Mount Vernon",
+      "properties":{
+        "LAT ":40.912599,
+        "STATE":"NY",
+        "LONG":-73.837079,
+        "CITY":"Mount Vernon"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.837079,
+          40.912599
+        ]
+      }
+    },
+    {
+      "id":"Bronxville",
+      "properties":{
+        "LAT ":40.938154,
+        "STATE":"NY",
+        "LONG":-73.832078,
+        "CITY":"Bronxville"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.832078,
+          40.938154
+        ]
+      }
+    },
+    {
+      "id":"South Glastonbury",
+      "properties":{
+        "LAT ":41.66706,
+        "STATE":"CT",
+        "LONG":-72.595888,
+        "CITY":"South Glastonbury"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -72.595888,
+          41.66706
+        ]
+      }
+    },
+    {
+      "id":"Erie",
+      "properties":{
+        "LAT ":42.129224,
+        "STATE":"PA",
+        "LONG":-80.085059,
+        "CITY":"Erie"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -80.085059,
+          42.129224
+        ]
+      }
+    },
+    {
+      "id":"Danbury ",
+      "properties":{
+        "LAT ":41.394817,
+        "STATE":"CT",
+        "LONG":-73.454011,
+        "CITY":"Danbury "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.454011,
+          41.394817
+        ]
+      }
+    },
+    {
+      "id":"Sherman ",
+      "properties":{
+        "LAT ":41.578642,
+        "STATE":"CT",
+        "LONG":-73.497418,
+        "CITY":"Sherman "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.497418,
+          41.578642
+        ]
+      }
+    },
+    {
+      "id":"New Fairfield",
+      "properties":{
+        "LAT ":41.466099,
+        "STATE":"CT",
+        "LONG":-73.485646,
+        "CITY":"New Fairfield"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.485646,
+          41.466099
+        ]
+      }
+    },
+    {
+      "id":"Bloomfield Hills",
+      "properties":{
+        "LAT ":42.583645,
+        "STATE":"MI ",
+        "LONG":-83.245488,
+        "CITY":"Bloomfield Hills"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -83.245488,
+          42.583645
+        ]
+      }
+    },
+    {
+      "id":"Denver",
+      "properties":{
+        "LAT ":39.737567,
+        "STATE":"CO",
+        "LONG":-104.984718,
+        "CITY":"Denver"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -104.984718,
+          39.737567
+        ]
+      }
+    },
+    {
+      "id":"Clarksburg",
+      "properties":{
+        "LAT ":39.280645,
+        "STATE":"WV",
+        "LONG":-80.344534,
+        "CITY":"Clarksburg"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -80.344534,
+          39.280645
+        ]
+      }
+    },
+    {
+      "id":"Harvard",
+      "properties":{
+        "LAT ":42.5,
+        "STATE":"MA",
+        "LONG":-71.583333,
+        "CITY":"Harvard"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -71.583333,
+          42.5
+        ]
+      }
+    },
+    {
+      "id":"Lousiville",
+      "properties":{
+        "LAT ":38.252665,
+        "STATE":"KY",
+        "LONG":-85.758456,
+        "CITY":"Lousiville"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -85.758456,
+          38.252665
+        ]
+      }
+    },
+    {
+      "id":"Juneau",
+      "properties":{
+        "LAT ":58.301944,
+        "STATE":"AK",
+        "LONG":-134.419722,
+        "CITY":"Juneau"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -134.419722,
+          58.301944
+        ]
+      }
+    },
+    {
+      "id":"Yolo County ",
+      "properties":{
+        "LAT ":38.764602,
+        "STATE":"CA",
+        "LONG":-121.901795,
+        "CITY":"Yolo County "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -121.901795,
+          38.764602
+        ]
+      }
+    },
+    {
+      "id":"Fairfax County",
+      "properties":{
+        "LAT ":38.908547,
+        "STATE":"VA",
+        "LONG":-77.240515,
+        "CITY":"Fairfax County"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -77.240515,
+          38.908547
+        ]
+      }
+    },
+    {
+      "id":"Yorba Linda",
+      "properties":{
+        "LAT ":33.888626,
+        "STATE":"CA",
+        "LONG":-117.813112,
+        "CITY":"Yorba Linda"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -117.813112,
+          33.888626
+        ]
+      }
+    },
+    {
+      "id":"Catskill ",
+      "properties":{
+        "LAT ":42.21731,
+        "STATE":"NY",
+        "LONG":-73.864573,
+        "CITY":"Catskill "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.864573,
+          42.21731
+        ]
+      }
+    },
+    {
+      "id":"Hudson ",
+      "properties":{
+        "LAT ":42.2528,
+        "STATE":"NY ",
+        "LONG":-73.7914,
+        "CITY":"Hudson "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.7914,
+          42.2528
+        ]
+      }
+    },
+    {
+      "id":"Albany",
+      "properties":{
+        "LAT ":42.652579,
+        "STATE":"NY",
+        "LONG":-73.756232,
+        "CITY":"Albany"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -73.756232,
+          42.652579
+        ]
+      }
+    },
+    {
+      "id":"Pittbsurgh",
+      "properties":{
+        "LAT ":40.440625,
+        "STATE":"PA",
+        "LONG":-79.995886,
+        "CITY":"Pittbsurgh"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -79.995886,
+          40.440625
+        ]
+      }
+    },
+    {
+      "id":"Atlanta ",
+      "properties":{
+        "LAT ":33.748995,
+        "STATE":"GA",
+        "LONG":-84.387982,
+        "CITY":"Atlanta "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -84.387982,
+          33.748995
+        ]
+      }
+    },
+    {
+      "id":"Havertown ",
+      "properties":{
+        "LAT ":39.980833,
+        "STATE":"PA",
+        "LONG":-75.308889,
+        "CITY":"Havertown "
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -75.308889,
+          39.980833
+        ]
+      }
+    },
+    {
+      "id":"Lakewood",
+      "properties":{
+        "LAT ":33.853627,
+        "STATE":"CA",
+        "LONG":-118.133956,
+        "CITY":"Lakewood"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -118.133956,
+          33.853627
+        ]
+      }
+    },
+    {
+      "id":"Inglewood",
+      "properties":{
+        "LAT ":33.96168,
+        "STATE":"CA",
+        "LONG":-118.353131,
+        "CITY":"Inglewood"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -118.353131,
+          33.96168
+        ]
+      }
+    }
+  ],
+  "type":"FeatureCollection"
+}
