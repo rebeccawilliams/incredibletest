@@ -1,5 +1,22 @@
 {
   "features":[
+  {
+      "id":"Jyväskylä",
+      "properties":{
+        "LAT ":62.244268718249806,
+        "COUNTRY":"Finland",
+        "LONG":25.750579833984375,
+        "CITY":"Jyväskylä"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          25.750579833984375,
+          62.244268718249806
+        ]
+       }
+     },
     {
       "id":"Szentes",
       "properties":{
