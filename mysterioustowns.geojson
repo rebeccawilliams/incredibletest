@@ -1,5 +1,22 @@
 {
   "features":[
+    {
+      "id":"Szentes",
+      "properties":{
+        "LAT ":46.65509212658211,
+        "COUNTRY":"Hungary",
+        "LONG":20.25604248046875,
+        "CITY":"Szentes"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          20.25604248046875,
+          46.65509212658211
+        ]
+       }
+     },
       {
       "id":"Estacada",
       "properties":{
