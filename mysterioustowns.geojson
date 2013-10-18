@@ -154,23 +154,6 @@
       }
     },
     {
-      "id":"Conception Junction ",
-      "properties":{
-        "LAT ":40.269713,
-        "STATE":"MO ",
-        "LONG":-94.69191,
-        "CITY":"Conception Junction "
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -94.69191,
-          40.269713
-        ]
-      }
-    },
-    {
       "id":"New York City",
       "properties":{
         "LAT ":40.714353,
@@ -303,40 +286,6 @@
         "coordinates":[
           -73.454011,
           41.394817
-        ]
-      }
-    },
-    {
-      "id":"Sherman ",
-      "properties":{
-        "LAT ":41.578642,
-        "STATE":"CT",
-        "LONG":-73.497418,
-        "CITY":"Sherman "
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -73.497418,
-          41.578642
-        ]
-      }
-    },
-    {
-      "id":"New Fairfield",
-      "properties":{
-        "LAT ":41.466099,
-        "STATE":"CT",
-        "LONG":-73.485646,
-        "CITY":"New Fairfield"
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -73.485646,
-          41.466099
         ]
       }
     },
