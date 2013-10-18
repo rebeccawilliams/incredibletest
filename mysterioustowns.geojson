@@ -577,6 +577,23 @@
           33.96168
         ]
       }
+    },
+    {
+      "id":"Stephens City",
+      "properties":{
+        "LAT ":39.083129,
+        "STATE":"VA",
+        "LONG":-78.218381,
+        "CITY":"Stephens City"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -78.218381,
+          39.083129
+        ]
+      }
     }
   ],
   "type":"FeatureCollection"
