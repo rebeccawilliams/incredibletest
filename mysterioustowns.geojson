@@ -20,17 +20,17 @@
     {
       "id":"Ann Arbor",
       "properties":{
-        "LAT ":42.2814,
+        "LAT ":83.7483,
         "STATE":"MI",
-        "LONG":83.7483,
+        "LONG":42.2814,
         "CITY":"Ann Arbor"
       },
       "type":"Feature",
       "geometry":{
         "type":"Point",
         "coordinates":[
-          83.7483,
-          42.2814
+          42.2814,
+          83.7483
         ]
       }
     },    
