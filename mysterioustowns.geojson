@@ -17,6 +17,23 @@
         ]
        }
      },
+    {
+      "id":"Washington",
+      "properties":{
+        "LAT ": 38.909836107628045,
+        "STATE":"DC",
+        "LONG":-77.04351425170897,
+        "CITY":"Washington"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -77.04351425170897,
+          38.909836107628045
+        ]
+       }
+     },
       {
       "id":"Estacada",
       "properties":{
@@ -477,40 +494,6 @@
       }
     },
     {
-      "id":"Hudson ",
-      "properties":{
-        "LAT ":42.2528,
-        "STATE":"NY ",
-        "LONG":-73.7914,
-        "CITY":"Hudson "
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -73.7914,
-          42.2528
-        ]
-      }
-    },
-    {
-      "id":"Albany",
-      "properties":{
-        "LAT ":42.652579,
-        "STATE":"NY",
-        "LONG":-73.756232,
-        "CITY":"Albany"
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -73.756232,
-          42.652579
-        ]
-      }
-    },
-    {
       "id":"Pittbsurgh",
       "properties":{
         "LAT ":40.440625,
@@ -558,23 +541,6 @@
         "coordinates":[
           -75.308889,
           39.980833
-        ]
-      }
-    },
-    {
-      "id":"Lakewood",
-      "properties":{
-        "LAT ":33.853627,
-        "STATE":"CA",
-        "LONG":-118.133956,
-        "CITY":"Lakewood"
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -118.133956,
-          33.853627
         ]
       }
     },
