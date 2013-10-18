@@ -1,5 +1,22 @@
 {
   "features":[
+      {
+      "id":"Estacada",
+      "properties":{
+        "LAT ":45.298075138707965,
+        "STATE":"OR",
+        "LONG":-122.3382568359375,
+        "CITY":"Estacada"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -122.3382568359375,
+          45.2980751387079653
+        ]
+       }
+     },
     {
       "id":"Springfield",
       "properties":{
