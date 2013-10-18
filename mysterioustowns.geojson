@@ -18,6 +18,23 @@
       }
     },
     {
+      "id":"Ann Arbor",
+      "properties":{
+        "LAT ":42.2814,
+        "STATE":"MI",
+        "LONG":83.7483,
+        "CITY":"Ann Arbor"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          83.7483,
+          42.2814
+        ]
+      }
+    },    
+    {
       "id":"Cary ",
       "properties":{
         "LAT ":35.79154,
