@@ -51,7 +51,24 @@
         ]
        }
      },
-      {
+     {
+      "id":"Oakland",
+      "properties":{
+        "LAT ": 44.5403400,
+        "STATE":"ME",
+        "LONG":-69.7219900,
+        "CITY":"Oakland"
+      },
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -77.04351425170897,
+          -69.7219900
+        ]
+       }
+     },
+    {
       "id":"Estacada",
       "properties":{
         "LAT ":45.298075138707965,
