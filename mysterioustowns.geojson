@@ -54,17 +54,17 @@
      {
       "id":"Oakland",
       "properties":{
-        "LAT ": 44.5403400,
+        "LAT ":44.540222,
         "STATE":"ME",
-        "LONG":-69.7219900,
+        "LONG":-69.721995,
         "CITY":"Oakland"
       },
       "type":"Feature",
       "geometry":{
         "type":"Point",
         "coordinates":[
-          -77.04351425170897,
-          -69.7219900
+          -69.721995,
+          44.540222
         ]
        }
      },
