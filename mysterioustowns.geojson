@@ -154,23 +154,6 @@
       }
     },
     {
-      "id":"Belfast",
-      "properties":{
-        "LAT ":44.425909,
-        "STATE":"ME",
-        "LONG":-69.006423,
-        "CITY":"Belfast"
-      },
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          -69.006423,
-          44.425909
-        ]
-      }
-    },
-    {
       "id":"Mobile",
       "properties":{
         "LAT ":30.694357,
